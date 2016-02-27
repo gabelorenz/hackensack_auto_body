@@ -14,11 +14,6 @@
     <!-- Bootstrap core CSS -->
     <link href="Stylesheets/bootstrap.min.css" rel="stylesheet">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
     <!-- Custom styles for this template -->
     <link href="Stylesheets/carousel.css" rel="stylesheet">
@@ -43,20 +38,11 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
-                  </ul>
-                </li>
+                <li><a href="about">About Us</a></li>
+                <li><a href="towing-services">Towing Services</a></li>
+                <li><a href="auto-body-repair">Auto Body Repairs</a></li>
+                <li><a href="mechanical-repair">Mechanical Repairs</a></li>
+                <li><a href="contact">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -147,57 +133,44 @@
       </div><!-- /.row -->
 
 
-      <!-- START THE FEATURETTES -->
 
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
+      
 
 
-      <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
 
     </div><!-- /.container -->
 
+    <!-- FOOTER -->
+      <footer style="background-color: rgba(0,0,0,0.3); padding-bottom: 25px;">
+        <div class="container">
+            <div class="col-md-3">
+                <h3>Hours</h3>
+                <table>
+                    <tbody>
+                    <tr><td width="100px">Monday</td><td>8AM-5PM</td></tr>
+                    <tr><td>Tuesday</td><td>8AM-5PM</td></tr>
+                    <tr><td>Wednesday</td><td>8AM-5PM</td></tr>
+                    <tr><td>Thursday</td><td>8AM-5PM</td></tr>
+                    <tr><td>Friday</td><td>8AM-5PM</td></tr>
+                    <tr><td>Saturday</td><td>8AM-12PM</td></tr>
+                    <tr><td>Sunday</td><td>Closed</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-3">
+                <h3>Certification</h3>
+            </div>
+            <div class="col-md-3">
+                <h3>Contact</h3>
+            </div>
+            <div class="col-md-3">
+                <h3>Location</h3>
+                <a href="https://www.google.com/maps/dir//Hackensack+Auto+Body+Company,+96+1st+Street,+Hackensack,+NJ+07601/"><img src="Images/Google_Maps.PNG"/></a>
+            </div>
+        </div>
+      </footer>
+
+    <div class="container"><p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p></div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

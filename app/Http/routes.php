@@ -15,6 +15,26 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/about', function () {
+    return view('welcome');
+});
+
+Route::get('/towing-services', function () {
+    return view('welcome');
+});
+
+Route::get('/mechanical-repair', function () {
+    return view('welcome');
+});
+
+Route::get('/auto-body-repair', function () {
+    return view('welcome');
+});
+
+Route::get('/contact', function () {
+    return view('welcome');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
