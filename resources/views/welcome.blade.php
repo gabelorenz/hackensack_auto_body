@@ -138,6 +138,8 @@
             </div>
             <div class="col-md-3">
                 <h3>Certification</h3>
+                <img src="Images/bbb.png" />
+                <img src="Images/dupont.png" />
             </div>
             <div class="col-md-3">
                 <h3 title="office"><i class="glyphicon glyphicon-earphone"></i> (201)-342-4311</h3>
