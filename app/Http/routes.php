@@ -16,23 +16,23 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return view('welcome');
+    return view('about');
 });
 
 Route::get('/towing-services', function () {
-    return view('welcome');
+    return view('towing');
 });
 
 Route::get('/mechanical-repair', function () {
-    return view('welcome');
+    return view('mechanical');
 });
 
 Route::get('/auto-body-repair', function () {
-    return view('welcome');
+    return view('autobody');
 });
 
 Route::get('/contact', function () {
-    return view('welcome');
+    return view('contact');
 });
 
 /*
