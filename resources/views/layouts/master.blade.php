@@ -34,42 +34,12 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                @if (url()->current() == url('/'))
-                  <li class="active">
-                 @else
-                  <li>
-                @endif
-                <a href="/">Home</a></li>
-                @if (url()->current() == url('about'))
-                  <li class="active">
-                 @else
-                  <li>
-                @endif
-                <a href="about">About Us</a></li>
-                @if (url()->current() == url('towing-services'))
-                  <li class="active">
-                 @else
-                  <li>
-                @endif
-                <a href="towing-services">Towing Services</a></li>
-                @if (url()->current() == url('auto-body-repair'))
-                  <li class="active">
-                 @else
-                  <li>
-                @endif
-                <a href="auto-body-repair">Auto Body Repairs</a></li>
-                @if (url()->current() == url('mechanical-repair'))
-                  <li class="active">
-                 @else
-                  <li>
-                @endif
-                <a href="mechanical-repair">Mechanical Repairs</a></li>
-                @if (url()->current() == url('contact'))
-                  <li class="active">
-                 @else
-                  <li>
-                @endif
-                <a href="contact">Contact</a></li>
+                <li class="{{ url()->current() == url('/')? 'active' : '' }}"><a href="{{ url('/') }}">Home</a></li>
+                <li class="{{ url()->current() == url('about')? 'active' : '' }}"><a href="{{ url('about') }}">About Us</a></li>
+                <li class="{{ url()->current() == url('towing-services')? 'active' : '' }}"><a href="{{ url('towing-services') }}">Towing Services</a></li>
+                <li class="{{ url()->current() == url('auto-body-repair')? 'active' : '' }}"><a href="{{ url('auto-body-repair') }}">Auto Body Repairs</a></li>
+                <li class="{{ url()->current() == url('mechanical-repair')? 'active' : '' }}"><a href="{{ url('mechanical-repair') }}">Mechanical Repairs</a></li>
+                <li class="{{ url()->current() == url('contact')? 'active' : '' }}"><a href="{{ url('contact') }}">Contact</a></li>
               </ul>
             </div>
           </div>
