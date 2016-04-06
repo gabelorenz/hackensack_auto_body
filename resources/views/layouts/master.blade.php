@@ -34,12 +34,42 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="/">Home</a></li>
-                <li><a href="about">About Us</a></li>
-                <li><a href="towing-services">Towing Services</a></li>
-                <li><a href="auto-body-repair">Auto Body Repairs</a></li>
-                <li><a href="mechanical-repair">Mechanical Repairs</a></li>
-                <li><a href="contact">Contact</a></li>
+                @if (url()->current() == url('/'))
+                  <li class="active">
+                 @else
+                  <li>
+                @endif
+                <a href="/">Home</a></li>
+                @if (url()->current() == url('about'))
+                  <li class="active">
+                 @else
+                  <li>
+                @endif
+                <a href="about">About Us</a></li>
+                @if (url()->current() == url('towing-services'))
+                  <li class="active">
+                 @else
+                  <li>
+                @endif
+                <a href="towing-services">Towing Services</a></li>
+                @if (url()->current() == url('auto-body-repair'))
+                  <li class="active">
+                 @else
+                  <li>
+                @endif
+                <a href="auto-body-repair">Auto Body Repairs</a></li>
+                @if (url()->current() == url('mechanical-repair'))
+                  <li class="active">
+                 @else
+                  <li>
+                @endif
+                <a href="mechanical-repair">Mechanical Repairs</a></li>
+                @if (url()->current() == url('contact'))
+                  <li class="active">
+                 @else
+                  <li>
+                @endif
+                <a href="contact">Contact</a></li>
               </ul>
             </div>
           </div>
