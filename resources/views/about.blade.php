@@ -32,7 +32,6 @@
       </a>
     </div><!-- /.carousel -->
      <div class="container marketing">
-     <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -44,8 +43,6 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
-
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">State of the art facilities. <span class="text-muted">Up to date and ready to go.</span></h2>
@@ -56,11 +53,9 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
-
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Towing Services. <span class="text-muted">Stuck? We'll come get you!.</span></h2>
+          <h2 class="featurette-heading">Towing Services. <span class="text-muted">Stuck? We'll come get you!</span></h2>
           <p class="lead">We have full time tow truck operators, 6 tow trucks including wreckers, flatbeds and heavy duty trucks. We provide 24 hour / 7 days a week towing for numerous municipalities. We provide pick up and delivery of vehicles for our customers.</p>
         </div>
         <div class="col-md-5">
@@ -68,7 +63,6 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
 </div>
 
 @endsection

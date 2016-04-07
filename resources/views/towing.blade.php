@@ -2,7 +2,6 @@
 
 @section('content')
  <div class="container marketing">
-     <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -14,7 +13,7 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
+     <!--  <hr class="featurette-divider"> -->
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
@@ -43,6 +42,6 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
+<!--       <hr class="featurette-divider"> -->
 </div>
 @endsection

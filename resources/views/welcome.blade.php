@@ -45,19 +45,19 @@
           <img class="img-circle" src="Images/TowingServices_icon2.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Towing Services</h2>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="towing-services" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="towing-services" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="Images/Auto_Repair.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Auto Body Repairs</h2>
           <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="auto-body-repair" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="auto-body-repair" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="Images/Mechanical_repair_icon.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Mechanical Repairs</h2>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="mechanical-repair" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="mechanical-repair" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
     </div><!-- /.container -->

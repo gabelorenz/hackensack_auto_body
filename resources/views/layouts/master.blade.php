@@ -39,7 +39,6 @@
                 <li class="{{ url()->current() == url('towing-services')? 'active' : '' }}"><a href="{{ url('towing-services') }}">Towing Services</a></li>
                 <li class="{{ url()->current() == url('auto-body-repair')? 'active' : '' }}"><a href="{{ url('auto-body-repair') }}">Auto Body Repairs</a></li>
                 <li class="{{ url()->current() == url('mechanical-repair')? 'active' : '' }}"><a href="{{ url('mechanical-repair') }}">Mechanical Repairs</a></li>
-                <li class="{{ url()->current() == url('contact')? 'active' : '' }}"><a href="{{ url('contact') }}">Contact</a></li>
               </ul>
             </div>
           </div>

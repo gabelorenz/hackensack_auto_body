@@ -3,7 +3,6 @@
 @section('content')
 
  <div class="container marketing">
-     <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -14,8 +13,6 @@
           <img class="featurette-image img-responsive center-block" src="Images/employee_working.png" alt="Generic placeholder image">
         </div>
       </div>
-
-      <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
@@ -47,8 +44,6 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
-
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Paint and <span class="text-muted">finishing.</span></h2>
@@ -59,7 +54,6 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
 </div>
 
 @endsection

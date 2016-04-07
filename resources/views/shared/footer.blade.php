@@ -1,5 +1,5 @@
     <!-- FOOTER -->
-      <footer style="background-color: rgba(0,0,0,0.3); padding-bottom: 25px; border-top: 5px solid #666;">
+      <footer>
         <div class="container">
             <div class="col-md-3">
                 <h3>Hours</h3>
@@ -32,4 +32,4 @@
         </div>
       </footer>
 
-    <div class="container"><p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p></div>
+    <div class="gutter"><div class="container"><p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p></div></div>
