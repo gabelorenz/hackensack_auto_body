@@ -46,6 +46,11 @@ footer {
   color: white;
 }
 
+.navbar-brand > img {
+  margin: -10px 25px 0px 25px;
+  width: 250px;
+}
+
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
   position: absolute;
