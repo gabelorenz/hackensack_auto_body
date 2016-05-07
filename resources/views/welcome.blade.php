@@ -44,7 +44,7 @@
         <div class="col-lg-4">
           <img class="img-circle" src="Images/TowingServices_icon2.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Towing Services</h2>
-          <p>Superior Towing Services and road side assistance available to Northern New Jersey and the surrouding areas 24/7. We have been proudly offering these services for 25+ years and look forward to  more years.</p>
+          <p>Superior towing services and road side assistance available to Northern New Jersey and the surrouding areas 24/7. We have been proudly offering these services for 25+ years and look forward to  more years.</p>
           <p><a class="btn btn-primary" href="towing-services" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
