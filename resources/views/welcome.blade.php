@@ -13,13 +13,13 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="Images/hackensack_auto.png" alt="First slide">
+          <img class="first-slide" src="Images/MapsShopFront.png" alt="First slide">
         </div>
         <div class="item">
-          <img class="second-slide" src="Images/tow_trucks.png" alt="Second slide">
+          <img class="second-slide" src="Images/MapsShopSide.png" alt="Second slide">
         </div>
         <div class="item">
-          <img class="third-slide" src="Images/repairs.png" alt="Third slide">
+          <img class="third-slide" src="Images/MapsShopDiagonal.png" alt="Third slide">
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -44,19 +44,19 @@
         <div class="col-lg-4">
           <img class="img-circle" src="Images/TowingServices_icon2.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Towing Services</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p>Superior Towing Services and road side assistance available to Northern New Jersey and the surrouding areas 24/7. We have been proudly offering these services for 25+ years and look forward to  more years.</p>
           <p><a class="btn btn-primary" href="towing-services" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="Images/Auto_Repair.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Auto Body Repairs</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p>Family owned and operated for over 50 years, Hackensack Auto Body brings you top of the line auto body services at a shop you can trust. We have state of the art equipment and staff to server all your needs.</p>
           <p><a class="btn btn-primary" href="auto-body-repair" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="Images/Mechanical_repair_icon.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Mechanical Repairs</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p>Equipped with all certifications and the latest is software and hardware for mechanical repairs, Hackensack Auto Body, with its talented staff, is the premium location for all your vehicles mechanical woes.</p>
           <p><a class="btn btn-primary" href="mechanical-repair" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->

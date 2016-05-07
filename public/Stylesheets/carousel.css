@@ -46,7 +46,7 @@ footer {
   color: white;
 }
 
-.navbar-brand > img {
+#wordmark {
   margin: -10px 25px 0px 25px;
   width: 250px;
 }
