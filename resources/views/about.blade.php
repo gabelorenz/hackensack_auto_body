@@ -13,13 +13,13 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="Images/hackensack_auto.png" alt="First slide">
+          <img class="first-slide" src="Images/Maps_Shop_Front.png" alt="First slide">
         </div>
         <div class="item">
-          <img class="second-slide" src="Images/tow_trucks.png" alt="Second slide">
+          <img class="second-slide" src="Images/Maps_Shop_Side.png" alt="Second slide">
         </div>
         <div class="item">
-          <img class="third-slide" src="Images/repairs.png" alt="Third slide">
+          <img class="third-slide" src="Images/Maps_Shop_Diagonal.png" alt="Third slide">
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
