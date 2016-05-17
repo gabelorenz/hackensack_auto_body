@@ -30,7 +30,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" style="padding:0" href="{{ url('/') }}"><img src="Images/hackensack-wordmark.png" id="wordmark" alt="Hackensack Auto Body" /></a>
+              <a class="navbar-brand" style="padding:0" href="{{ url('/') }}"><img src="Images/hackensack-wordmark.png" id="wordmark" alt="Hackensack Auto Body" /><div id="wordmark_txt">Hackensack Auto Body</div></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">

@@ -25,6 +25,21 @@ footer {
 }
 
 
+ #wordmark_txt {
+    display: none;
+    line-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+@media (max-width: 1200px) {
+  #wordmark_txt {
+    display: block;
+  }
+    #wordmark {
+    display: none;
+  }
+}
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 .navbar {

@@ -39,7 +39,7 @@
           <p class="lead">Hackensack Auto Body was established in 1922 and has been a family owned and operated business since 1962. We have been serving the residents and visitors of Hackensack faithfully for over 50 years and are conveniently located in one of the busiest areas in Hackensack.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="Images/shop_sideview.png" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" src="Images/logo1.png" alt="Generic placeholder image">
         </div>
       </div>
 
