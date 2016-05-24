@@ -5,8 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Family owned and operated for over 50 years, Hackensack Auto Body brings you top of the line auto body services at a shop you can trust.">
     <link rel="icon" href="Images/H.ico">
 
     <title>Hackensack Auto Body</title>
