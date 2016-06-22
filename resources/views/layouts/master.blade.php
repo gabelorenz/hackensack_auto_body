@@ -36,8 +36,8 @@
               <ul class="nav navbar-nav">
                 <li class="{{ url()->current() == url('/')? 'active' : '' }}"><a href="{{ url('/') }}">Home</a></li>
                 <li class="{{ url()->current() == url('about')? 'active' : '' }}"><a href="{{ url('about') }}">About Us</a></li>
-                <li class="{{ url()->current() == url('towing-services')? 'active' : '' }}"><a href="{{ url('towing-services') }}">Towing Services</a></li>
                 <li class="{{ url()->current() == url('auto-body-repair')? 'active' : '' }}"><a href="{{ url('auto-body-repair') }}">Auto Body Repairs</a></li>
+                <li class="{{ url()->current() == url('towing-services')? 'active' : '' }}"><a href="{{ url('towing-services') }}">Towing Services</a></li>
                 <li class="{{ url()->current() == url('mechanical-repair')? 'active' : '' }}"><a href="{{ url('mechanical-repair') }}">Mechanical Repairs</a></li>
               </ul>
             </div>
