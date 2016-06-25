@@ -6,7 +6,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Auto Body Repairs. <span class="text-muted">Best in the business.</span></h2>
+          <h2 class="featurette-heading">Auto Body Repairs. Best in the business.</h2>
           <p class="lead">Hackensack Auto Body is a family owned and operated facility with over 50 years of experience. Our team goal is to provide quality repair with customer satisfaction.</p>
         </div>
         <div class="col-md-5">
@@ -16,7 +16,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Collision Repair <span class="text-muted">and Services</span></h2>
+          <h2 class="featurette-heading">Collision Repair and Services</h2>
           <p class="lead">
           	<ul>
           	<li>Full-service collision repair on all makes and models.</li>
@@ -46,7 +46,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Paint and <span class="text-muted">finishing.</span></h2>
+          <h2 class="featurette-heading">Paint and finishing.</h2>
           <p class="lead">Our high pressured booths make it possible for our technicians to refinish a vehicle in a dust free and temperature controlled atmosphere. These are the components necessary to make an immaculate paint job possible. Our color matching computerized system gives us access to every color of every vehicle, resulting in a perfect paint match, so your vehicle looks just as it did when it rolled off the showroom floor.</p>
         </div>
         <div class="col-md-5">

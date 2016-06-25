@@ -17,8 +17,10 @@
             </div>
             <div class="col-md-3">
                 <h3>Certification</h3>
-                <img src="Images/bbb.png" />
+                <img src="Images/BBB-Logo-Blue.png" width="75" height="125" />
                 <img src="Images/dupont.png" />
+                <img src="Images/rmdiamont.png" width="100" height="100" />
+                <img src="Images/credit_cards.png" width="125" height="100" />
             </div>
             <div class="col-md-3">
                 <h3 title="office"><i class="glyphicon glyphicon-earphone"></i> (201)-342-4311</h3>
