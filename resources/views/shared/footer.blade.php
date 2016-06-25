@@ -34,5 +34,3 @@
         </div>
       </footer>
 
-    <div class="gutter"><div class="container"><p>&copy; 2015 PacStream, Inc. </p></div></div>
-
