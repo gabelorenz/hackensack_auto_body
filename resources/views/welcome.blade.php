@@ -12,7 +12,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="Images/Maps_Shop_Diagonal.png" alt="First slide">
+          <img class="first-slide" src="Images/hackensack_auto.png" alt="First slide">
         </div>
         <div class="item">
           <img class="second-slide" src="Images/Maps_Shop_Side.png" alt="Second slide">
