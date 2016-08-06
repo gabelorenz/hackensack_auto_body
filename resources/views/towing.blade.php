@@ -4,12 +4,15 @@
  <div class="container marketing">
 
       <div class="row featurette">
-        <div class="col-md-7">
+          <div class="col-md-12">
+            <img class="featurette-image img-responsive center-block" src="Images/tow_trucks.png" alt="Generic placeholder image" width="900">
+          </div>
+      </div>
+
+      <div class="row featurette">
+        <div class="col-md-12">
           <h2 class="featurette-heading">Hackensack Auto Body Towing services.</h2>
           <p class="lead">Hackensack Auto Body provides towing services for Northern New Jersey and the surrounding area. With over 25 years of towing and recovery experience with a fleet of more than 6 trucks we have the knowledge and equipment to tackle any job you may require of us.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="Images/tow_trucks.png" alt="Generic placeholder image">
         </div>
       </div>
 
