@@ -43,13 +43,13 @@
           <p><a class="btn btn-primary" href="auto-body-repair" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="Images/tow_truck_small.png" alt="Generic placeholder image" width="230" height="230">
+          <img class="img-circle" src="Images/tow_truck_small2.png" alt="Generic placeholder image" width="230" height="230">
           <h2>Towing Services</h2>
           <p>Superior towing services and road side assistance available to Northern New Jersey and the surrouding areas 24/7. We have been proudly offering these services for 25+ years and look forward to  more years.</p>
           <p><a class="btn btn-primary" href="towing-services" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="Images/engine_small.png" alt="Generic placeholder image" width="230" height="230">
+          <img class="img-circle" src="Images/engine_small2.png" alt="Generic placeholder image" width="230" height="230">
           <h2>Mechanical Repairs</h2>
           <p>Equipped with all certifications and the latest is software and hardware for mechanical repairs, Hackensack Auto Body, with its talented staff, is the premium location for all your vehicles mechanical woes.</p>
           <p><a class="btn btn-primary" href="mechanical-repair" role="button">View details &raquo;</a></p>
